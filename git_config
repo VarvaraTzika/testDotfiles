@@ -1,0 +1,15 @@
+[user]
+  name = Varvara Tzika
+  email = varvara@travelbird.nl
+
+[core]
+  excludesfile = ~/.gitignore
+
+[branch]
+ autosetuprebase = always
+
+[branch "master"]
+  rebase = true
+
+[alias]
+  b = branch
